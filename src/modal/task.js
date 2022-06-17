@@ -1,5 +1,4 @@
 const mongoose = require('mongoose')
-// ghg
 
 const taskSchema = mongoose.Schema({
     title:{
